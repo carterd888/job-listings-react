@@ -1,5 +1,11 @@
 .App {
+  background-color: #61dafb;
   text-align: center;
+}
+
+.App .card {
+  margin-top: 5px;
+  border: solid blue 1px;
 }
 
 .App-logo {
